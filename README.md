@@ -1,4 +1,4 @@
-sigma
+SIGMA
 =====
 
-This is a basic site framework with user administration, access control and other useful stuff
+SIGMA helps to keep websites secure by monitoring the SSL configuration and certificate validity using the SSL Labs API and an internal queing system.
